@@ -24,6 +24,13 @@ This repository contains a collection of machine learning projects developed by 
   - `heart_disease_prediction.ipynb`: Jupyter Notebook containing data analysis, preprocessing, model building, and evaluation.
   - `heart_disease_data.csv`: Dataset used for heart disease prediction.
 
+### 4. Fashion MNIST Image Classification
+
+- **Description:** Image classification using the Fashion MNIST dataset to categorize clothing articles.
+- **Files:**
+  - `fashion_mnist_classification.ipynb`: Jupyter Notebook encompassing data exploration, model development using deep learning (e.g., TensorFlow, PyTorch), and evaluation.
+  - `fashion_mnist_data.csv` or `fashion_mnist_data.zip`: Dataset containing fashion items' grayscale images for classification.
+
 ## Future Projects (Upcoming):
 
 - [ ] Breast Cancer Detection

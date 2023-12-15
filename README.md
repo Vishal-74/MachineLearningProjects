@@ -28,8 +28,8 @@ This repository contains a collection of machine learning projects developed by 
 
 - **Description:** Image classification using the Fashion MNIST dataset to categorize clothing articles.
 - **Files:**
-  - `fashion_mnist_classification.ipynb`: Jupyter Notebook encompassing data exploration, model development using deep learning (e.g., TensorFlow, PyTorch), and evaluation.
-  - `fashion_mnist_data.csv` or `fashion_mnist_data.zip`: Dataset containing fashion items' grayscale images for classification.
+  - `classifying_clothes.ipynb`: Jupyter Notebook encompassing data exploration, model development using deep learning (e.g., TensorFlow, PyTorch), and evaluation.
+  - `tensorflow dataset - fashion_mnist`: Dataset containing fashion items' grayscale images for classification.
 
 ## Future Projects (Upcoming):
 

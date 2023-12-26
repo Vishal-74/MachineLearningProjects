@@ -42,6 +42,18 @@ This repository contains a collection of machine learning projects developed by 
 - **Description:** Classifying cats and dogs using transfer learning with MobileNet pre-trained model. The dataset was loaded directly from TensorFlow Datasets (`tfds`).
 - **Files:**
   - `Transfer_Learning_on_CatsVsDogs.ipynb`: Jupyter Notebook applying transfer learning using MobileNet for cats and dogs classification. Data loaded using `tfds`.
+
+### 7. Flower Classification (CNN)
+
+- **Description:** Image classification of different flowers using Convolutional Neural Networks (CNN). The dataset was loaded directly from TensorFlow Datasets (`tfds`).
+- **Files:**
+  - `Flower_Classification.ipynb`: Jupyter Notebook for flower classification using CNN. Data loaded using `tfds`.
+
+### 8. Flower Classification using Transfer Learning (Inprogress)
+
+- **Description:** Flower classification using transfer learning with a CNN architecture. The dataset was loaded directly from TensorFlow Datasets (`tfds`).
+- **Files:**
+  - `Flower_Classification_using_TL.ipynb`: Jupyter Notebook for flower classification using transfer learning. Data loaded using `tfds`.
  
 
 ## Future Projects (Upcoming):

@@ -60,7 +60,12 @@ This repository contains a collection of machine learning projects developed by 
 - **Description:** Predicting whether someone who apply for loan will get loan or not.
 - **Files:**
   - `loan_aprooval.ipynb`: Jupyter Notebook for load approval.
- 
+
+### 10. Customer Churn Prediction
+
+- **Description:** Classic project of customer churn prediction using kaggle dataset.
+- **Files:**
+  - `customer-churn-96-acc-gradient-boosting.ipynb`: Jupyter Notebook for Customer Churn Prediction.
 
 ## Future Projects (Upcoming):
 

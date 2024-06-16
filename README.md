@@ -55,6 +55,12 @@ This repository contains a collection of machine learning projects developed by 
 - **Files:**
   - `Flower_Classification_using_TL.ipynb`: Jupyter Notebook for flower classification using transfer learning. Data loaded using `tfds`.
  
+### 9. Loan approval
+
+- **Description:** Predicting whether someone who apply for loan will get loan or not.
+- **Files:**
+  - `loan_aprooval.ipynb`: Jupyter Notebook for load approval.
+ 
 
 ## Future Projects (Upcoming):
 
